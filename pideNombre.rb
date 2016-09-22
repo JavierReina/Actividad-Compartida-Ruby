@@ -1,4 +1,4 @@
 puts "¿Cómo te llamas?"
 STDOUT.flush
 nombre = gets.chomp
-puts "Hola " + nombre
+puts "Hola " + nombre + " Eres genial"
